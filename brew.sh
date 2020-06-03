@@ -6,6 +6,7 @@ brew install tree
 brew install zsh
 
 # Install MacOS Applications
+brew cask install anaconda
 brew cask install google-chrome
 brew cask install microsoft-office
 brew cask install adobe-acrobat-reader
